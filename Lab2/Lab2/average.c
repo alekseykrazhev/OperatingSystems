@@ -16,4 +16,6 @@ void WINAPI average(LPVOID params) {
 		Sleep(12);
 	}
 	av_val /= mas_len;
+	printf("Average: \n");
+	printf("%f", av_val);
 }

@@ -1,11 +1,14 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.28307.960
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Lab_2", "Lab_2\Lab_2.vcxproj", "{C804B963-93A6-4356-9410-B34D22E941EB}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Creator", "Creator\Creator.vcxproj", "{6DFCB2E4-9E99-423A-A8FF-AB94B221DC86}"
+	ProjectSection(ProjectDependencies) = postProject
+		{C804B963-93A6-4356-9410-B34D22E941EB} = {C804B963-93A6-4356-9410-B34D22E941EB}
+	EndProjectSection
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Reporter", "Reporter\Reporter.vcxproj", "{7A7515DB-F1E3-4ADC-BD82-48703E47D58C}"
 EndProject

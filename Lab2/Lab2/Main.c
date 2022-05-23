@@ -64,5 +64,7 @@ int main() {
 	{
 		printf("%f ", array[i]);
 	}
+
+	system("pause");
 	return 0;
 }

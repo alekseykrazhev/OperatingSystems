@@ -25,4 +25,8 @@ void WINAPI min_max(LPVOID params) {
 		}
 		Sleep(7);
 	}
+	printf("Min Element:\n");
+	printf("%f", minValue);
+	printf("MaxElement\n");
+	printf("%f", maxValue);
 }

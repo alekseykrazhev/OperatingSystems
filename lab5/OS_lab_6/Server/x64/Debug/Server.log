@@ -1,0 +1,4 @@
+﻿  Server.cpp
+C:\Users\lkr37\Desktop\OS_lab_6-20200528T184741Z-001\OS_lab_6\Server\Server.cpp(69,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\lkr37\Desktop\OS_lab_6-20200528T184741Z-001\OS_lab_6\Server\Server.cpp(152,11): warning C4129: H: неизвестная escape-последовательность
+  Server.vcxproj -> C:\Users\lkr37\Desktop\OS_lab_6-20200528T184741Z-001\OS_lab_6\x64\Debug\Server.exe

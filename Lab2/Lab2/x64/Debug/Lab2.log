@@ -1,4 +1,4 @@
 ﻿  Main.c
-C:\Users\lkr37\Desktop\Lab2\Lab2\Main.c(41,10): warning C4133: функция: несовместимые типы - из "void (__cdecl *)(LPVOID)" в "LPTHREAD_START_ROUTINE"
-C:\Users\lkr37\Desktop\Lab2\Lab2\Main.c(50,10): warning C4133: функция: несовместимые типы - из "void (__cdecl *)(LPVOID)" в "LPTHREAD_START_ROUTINE"
-  Lab2.vcxproj -> C:\Users\lkr37\Desktop\Lab2\x64\Debug\Lab2.exe
+C:\Users\lkr37\Desktop\study\4 semester\OperatingSystems\Lab2\Lab2\Main.c(41,10): warning C4133: функция: несовместимые типы - из "void (__cdecl *)(LPVOID)" в "LPTHREAD_START_ROUTINE"
+C:\Users\lkr37\Desktop\study\4 semester\OperatingSystems\Lab2\Lab2\Main.c(50,10): warning C4133: функция: несовместимые типы - из "void (__cdecl *)(LPVOID)" в "LPTHREAD_START_ROUTINE"
+  Lab2.vcxproj -> C:\Users\lkr37\Desktop\study\4 semester\OperatingSystems\Lab2\x64\Debug\Lab2.exe
